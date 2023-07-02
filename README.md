@@ -13,3 +13,4 @@ SSD - Single Shot Detector
 
 #Please use the SSD model Caffemodel and prototxt as i have used in the notebook.
   
+#The Link for The working of Object_detection model using SSD with output
