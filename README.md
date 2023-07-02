@@ -11,5 +11,5 @@ SSD - Single Shot Detector
   They're faster and dont require models That were trained on Huge chunks of dataset. Quick Detection.Faster.
   When SSD's are trained on Different ratios.They might miss out significant smaller or larger objects.Not accurate
 
-
+#Please use the SSD model Caffemodel and prototxt as i have used in the notebook.
   
